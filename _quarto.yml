@@ -4,7 +4,10 @@ project:
   
 website: 
   title: "AC's notes"
-  
+  navbar:
+    background: primary
+    search: true
+
 format: 
   html: 
     themes: slate
